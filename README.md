@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Implementa Bases de Datos Relacioneales en Sistemas Informaticos CBTis-191</h1>
-Practicas para la construccion de una aplicacion web 5° sem CBTis 191
+Practicas  de Creacion, Lectura, Actualizar y Eliminación de Tablas en una Base de Datos   4° sem C CBTis 191
 <h1 align="center">Hola Soy, Claudio Peña Barragán 👋</h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
