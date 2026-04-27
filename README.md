@@ -1,9 +1,8 @@
 # Curso-de-RDBMS-Mysql-Principiantes
 
 ## Índice de secciones:
-1. [Instalaciones necesarias](instalaciones-necesarias.md)
-2. [Crear y eliminar db y tablas](create-drop-db-table.md)
-3. [Alter table](alter-table.md)
+1 [Crear y eliminar db y tablas](CRUD_1_tabla.md)
+//3. [Alter table](alter-table.md)
 4. [Insertar información](insert-into-select.md)
 5. [Actualizar, eliminar y truncar tablas](update-delete-truncate.md)
 6. [Select (where, order by, etc)](select-where-order.md)
