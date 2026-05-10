@@ -15,7 +15,7 @@ Practicas  de Creacion, Lectura, Actualizar y Eliminación de Tablas en una Base
 ## Índice de secciones:
 1. [Crear, Lee, Actualiza y Eliminar (CRUD) tablas en una BD](CRUD_1_tabla.md)
 2. [Alter Table (Modidfica la estructura de una tabla)](Alter_table.md)
-3. [Insertar información](insert-into-select.md)
+3. [Insertar información](insert-into.md)
 
 ## Familia de comandos SQL
 
